@@ -1,8 +1,8 @@
 # v1
-Eyecatcher aangemaakt
+Footer aangemaakt
 
 # v2
-Responsive gemaakt
+Responsive gmeaakt
 
 # v3
-Nieuwe tailwind toegepast
+Uitklapbaar gemaakt
