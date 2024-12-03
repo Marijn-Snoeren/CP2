@@ -6,3 +6,6 @@ Sroll indicator toegevoegd
 
 # v3
 Gezorgd dat de scroll indicator pas begint als sticky component de top heft bereikt
+
+# v4
+Nieuwe aniamtie toegevoegd
