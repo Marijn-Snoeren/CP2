@@ -1,5 +1,5 @@
-<img width="screen" alt="Screenshot 2024-12-17 at 16 10 56" src="https://github.com/user-attachments/assets/8dc0b0f8-3b67-489c-acd5-dcecc98a145e" />
-<img width="screen" alt="Screenshot 2024-12-17 at 16 11 12" src="https://github.com/user-attachments/assets/d3d90c5a-4c89-4dad-9faf-ad7a0fc7c23e" />
+<img width="100%" alt="Screenshot 2024-12-17 at 16 10 56" src="https://github.com/user-attachments/assets/8dc0b0f8-3b67-489c-acd5-dcecc98a145e" style="margin-bottom: 20px;" />
+<img width="100%" alt="Screenshot 2024-12-17 at 16 11 12" src="https://github.com/user-attachments/assets/d3d90c5a-4c89-4dad-9faf-ad7a0fc7c23e" />
 
 # v1
 - Footer-component aangemaakt met Storyblok-integratie voor dynamische content.
