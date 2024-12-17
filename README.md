@@ -1,3 +1,5 @@
+<img width="screen" alt="Screenshot 2024-12-17 at 16 08 19" src="https://github.com/user-attachments/assets/880d25b5-1105-4cda-a996-a75ecf7da955" />
+
 # v1
 - Eyecatcher-component aangemaakt met Storyblok-integratie voor dynamische content.
 - Basisstructuur toegevoegd: afbeelding, titel, bodytekst, auteur, tijd, en call-to-action.
