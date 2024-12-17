@@ -1,15 +1,15 @@
 # v1
-Eyecatcher-component aangemaakt met Storyblok-integratie voor dynamische content.
-Basisstructuur opgezet: een afbeelding, een titel, een tekstblok voor de body, auteur en tijd van publicatie, en een call-to-action knop.
-De component maakt gebruik van de storyblokEditable-functie voor Storyblok-samenwerking.
+- Eyecatcher-component aangemaakt met Storyblok-integratie voor dynamische content.
+- Basisstructuur toegevoegd: afbeelding, titel, bodytekst, auteur, tijd, en call-to-action.
+- Gebruik van `storyblokEditable` voor Storyblok-samenwerking.
 
 # v2
-Responsieve aanpassingen toegevoegd voor verschillende schermformaten (desktop, tablet, mobiel).
-Implementatie van line-clamp voor het beperken van de zichtbare tekst op kleinere schermen.
-Veranderingen in de layout: de call-to-action knop en tekst zijn geoptimaliseerd voor mobiel gebruik.
+- Responsieve aanpassingen toegevoegd voor verschillende schermformaten (desktop, tablet, mobiel).
+- `line-clamp` geïmplementeerd om de tekstlengte te beperken op kleinere schermen.
+- Layout geoptimaliseerd voor mobiele apparaten, inclusief call-to-action en tekstuitlijning.
 
 # v3
-Nieuwe Tailwind CSS-variabelen toegepast voor consistentie in het ontwerp.
-Verbeterde typografie: de titel gebruikt nu een grotere, gedurfde lettertype voor betere leesbaarheid op desktop en mobiel.
-Aangepaste kleurvariabelen toegevoegd voor betere visuele hiërarchie, inclusief een nieuwe bg-red voor de merkzichtbaarheid-tag.
-Het ontwerp is verder geoptimaliseerd voor de desktopweergave, met een betere uitlijning en leesbaarheid van de tekst.
+- Nieuwe Tailwind CSS-variabelen toegepast voor consistentie in het ontwerp.
+- Typografie geüpdatet: grotere en gedurfde titel voor betere leesbaarheid op desktop en mobiel.
+- Verbeterde visuele hiërarchie met nieuwe kleurvariabelen, waaronder `bg-red` voor merkzichtbaarheid.
+- Desktopweergave geoptimaliseerd voor betere tekstuitlijning en leesbaarheid.
