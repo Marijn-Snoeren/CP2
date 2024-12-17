@@ -1,11 +1,19 @@
+# Desktop
+<img width="874" alt="Screenshot 2024-12-17 at 16 32 46" src="https://github.com/user-attachments/assets/8c47904d-b8cc-4a7f-804a-5619be7e4c17" />
+
 # v1
-Stiky componnt aangemaakt en gestyled
+- Sticky component aangemaakt en gestyled.
+- Toegevoegd: social media iconen voor Twitter, Facebook, LinkedIn, Instagram en WhatsApp.
+- Gebruikte FontAwesome voor de iconen en Tailwind CSS voor styling.
 
 # v2
-Sroll indicator toegevoegd
+- Scroll indicator toegevoegd die het scrollpercentage weergeeft.
+- Het percentage wordt berekend op basis van de scrollpositie van de gebruiker.
 
 # v3
-Gezorgd dat de scroll indicator pas begint als sticky component de top heft bereikt
+- Scroll indicator begint pas wanneer het sticky component de top van het scherm bereikt.
+- Gebruikt `getBoundingClientRect` om de positie van het element te controleren.
 
 # v4
-Nieuwe aniamtie toegevoegd
+- Nieuwe animatie toegevoegd voor de scroll indicator met een cirkelvormig ontwerp.
+- Het percentage van de scroll wordt weergegeven als een dynamische cirkelvormige voortgangsbalk.
