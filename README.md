@@ -2,10 +2,8 @@
 <img width="1094" alt="Screenshot 2024-12-17 at 16 22 36" src="https://github.com/user-attachments/assets/f77ca551-735e-4643-b8f0-2a79b665932c" />
 
 # Mobile
-<div class="flex items-start">
-  <img width="363" alt="Screenshot 2024-12-17 at 16 24 50" src="https://github.com/user-attachments/assets/6087ce7f-8db8-44e0-a1c5-488b072cf2c4" />
-  <img width="363" alt="Screenshot 2024-12-17 at 16 25 16" src="https://github.com/user-attachments/assets/7853bf25-58a8-4282-b49f-9f20da6bdda6" />
-</div>
+<img width="363" alt="Screenshot 2024-12-17 at 16 25 16" src="https://github.com/user-attachments/assets/7853bf25-58a8-4282-b49f-9f20da6bdda6" />
+<img width="363" alt="Screenshot 2024-12-17 at 16 24 50" src="https://github.com/user-attachments/assets/6087ce7f-8db8-44e0-a1c5-488b072cf2c4" />
 
 # v1
 - Artikel preview component aangemaakt en gestyled.
