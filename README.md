@@ -1,5 +1,5 @@
-<img width="full" alt="Screenshot 2024-12-17 at 16 08 19" src="https://github.com/user-attachments/assets/880d25b5-1105-4cda-a996-a75ecf7da955" />
-<img width="full" alt="Screenshot 2024-12-17 at 16 14 17" src="https://github.com/user-attachments/assets/7c667422-eb02-4378-9b22-b1f45db75c9a" />
+<img width="568" alt="Screenshot 2024-12-17 at 16 08 19" src="https://github.com/user-attachments/assets/5c733a6f-3e0f-4377-858a-905897012b2c" />
+<img width="391" alt="Screenshot 2024-12-17 at 16 14 17" src="https://github.com/user-attachments/assets/0ed88306-bb39-49c0-9193-28e957f2d3ad" />
 
 # v1
 - Eyecatcher-component aangemaakt met Storyblok-integratie voor dynamische content.
