@@ -4,12 +4,12 @@
 - Gebruik van `storyblokEditable` voor Storyblok-samenwerking.
 
 # v2
-- Responsieve aanpassingen toegevoegd voor verschillende schermformaten (desktop, tablet, mobiel).
+- Responsieve aanpassingen toegevoegd voor verschillende schermformaten (desktop en mobiel).
 - `line-clamp` geïmplementeerd om de tekstlengte te beperken op kleinere schermen.
 - Layout geoptimaliseerd voor mobiele apparaten, inclusief call-to-action en tekstuitlijning.
 
 # v3
 - Nieuwe Tailwind CSS-variabelen toegepast voor consistentie in het ontwerp.
-- Typografie geüpdatet: grotere en gedurfde titel voor betere leesbaarheid op desktop en mobiel.
-- Verbeterde visuele hiërarchie met nieuwe kleurvariabelen, waaronder `bg-red` voor merkzichtbaarheid.
+- Typografie geüpdatet, nieuwe varianten voor desktop en mobiel verwerkt.
+- Verbeterde visuele hiërarchie met nieuwe kleurvariabelen, waaronder `bg-red` voor "merkzichtbaarheid".
 - Desktopweergave geoptimaliseerd voor betere tekstuitlijning en leesbaarheid.
