@@ -1,4 +1,7 @@
+# Desktop
 <img width="568" alt="Screenshot 2024-12-17 at 16 08 19" src="https://github.com/user-attachments/assets/5c733a6f-3e0f-4377-858a-905897012b2c" />
+
+# Mobile
 <img width="391" alt="Screenshot 2024-12-17 at 16 14 17" src="https://github.com/user-attachments/assets/0ed88306-bb39-49c0-9193-28e957f2d3ad" />
 
 # v1
