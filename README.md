@@ -1,4 +1,4 @@
-# README - Persoonlijke Git Repository
+# CP2 - Personal Git
 
 Dit is mijn Personal Git Resporitory, hier vind je alle componenten die ik heb ontwikkeld en de versies die ik doorlopen heb. Deze repository is gestructureerd in branches, waarbij elke branch een specifiek component bevat met de verschillende versies en bijbehorende beschrijvingen.
 
